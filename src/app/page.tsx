@@ -22,7 +22,7 @@ export default function Page() {
         </div>
         <div className="flex-1 ">
           <div className="bg-gray-50 rounded-t-3xl shadow-sm">
-            <div className="max-w-[1000px] mx-auto px-1 py-2 space-y-6">
+            <div className="max-w-[1100px] mx-auto px-1 py-2 space-y-6">
               <StepIndicator />
               <ClaimForm />
             </div>
@@ -32,4 +32,6 @@ export default function Page() {
     </div>
   )
 }
+
+0
 
